@@ -18,11 +18,17 @@ cc2_miles -- Number of miles earned with Rewards credit card in the past 12 mont
 
 cc3_miles -- Number of miles earned with Small Business credit card in the past 12 months:  
 
+
 1 = under 5,000 
+
 2 = 5,000 - 10,000 
+
 3 = 10,001 - 25,000 
+
 4 = 25,001 - 50,000 
+
 5 = over 50,000  
+
 
 Bonus_miles--Number of miles earned from non-flight bonus transactions in the past 12 months  
 
